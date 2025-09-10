@@ -1,5 +1,6 @@
 สอนใช้ vibevoice ผ่าน comfy ui แบบง่าย ตั้งแต่ต้นจนจบ
 
+***แนะนำ gpu ที่ใช้ต้องเป็น nvidia vram ประมาณ 8-16gb ขึ้นไป****
 ขั้นแรก
 ติดตั้ง git
 https://git-scm.com/downloads/win ดาวน์โหลดและติดตั้ง version ล่าสุด
